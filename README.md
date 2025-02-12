@@ -1,0 +1,3 @@
+## Welcome to Irrigation Scheduler!
+This project is one of my first hobby projects, I want to see if I can build a weather-data-driven controller platform for
+sprinklers and other irrigation lines in ones yard/garden! This will be a long project, as currently I dont have any sprinklers to integrate with, but I am hoping to develop some of the background logic with APIs and schedule reading/modification in the mean time. Thanks for reading!
