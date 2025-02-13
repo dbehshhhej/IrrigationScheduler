@@ -1,7 +1,7 @@
 ZONE,SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY
-1,x,,,x,,x,
-2,x,x,x,x,x,x,x
-3,,x,,,,,
-4,x,,x,,x,x,
-5,,x,,x,,x,
-6,x,,x,,x,,x
+1,,10,,10,,10,
+2,5,5,5,5,5,5,5
+3,,10,,,,,
+4,5,,5,,5,5,
+5,,3,,3,,3,
+6,10,,10,,10,,10

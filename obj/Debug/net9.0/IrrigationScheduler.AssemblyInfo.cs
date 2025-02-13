@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IrrigationScheduler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e005b427a8a423e2267255785e2f6de9b3b0660c")]
 [assembly: System.Reflection.AssemblyProductAttribute("IrrigationScheduler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IrrigationScheduler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
